@@ -1,0 +1,20 @@
+Assalamualaikumwarahmatullahiwabarokatuh.
+
+Script1.py
+print "Hello, world!"					                              : Menampilkan kata Hello, world!
+print "Kalimat pertama Saudara dalam mempraktikkan Python"	: Menampilkan kata Kalimat pertama Saudara dalam mempraktikkan Python
+
+Script2.py
+print("Hello World!")					                        : Menampilkan kata Hello, world!
+print("Adakah perbedaan script pertama dan kedua?")		: Menampilkan kata Adakah perbedaan script pertama dan kedua?
+
+String.py
+print "This is a good string"                                   : Menampilkan kata This is a good string
+print 'You can use single quotes or double quotes for a string' : Menampilkan kata You can use single quotes or double quotes for a string
+print "This is " + "a good string"                              : Menampilkan gabungan kalimat yang dipisahkan dengan tanda baca "+"
+
+Kesimpulan :
+Pada "Script1.py" dan "Script2.py" tidak ada perbedaan yang berarti, walaupun menggunakan tanda baca 'petik dua' dan 'kurung + petik dua'.
+Pada "String.py" mengunakan tanda baca 'petik dua' maupun 'petik satu' sama-sama menampilkan hasil yang strukturnya sama, dan tanda baca 'plus' menampilkan gabungan kalimat yang di tulis.
+
+Wassalamualaikumwarahmatullahiwabarokatuh.
