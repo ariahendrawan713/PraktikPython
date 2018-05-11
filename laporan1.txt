@@ -1,0 +1,4 @@
+Script 1 yaitu untuk menampilkan kalimat dengan menggunakan perintah print "hello, world"
+Script 2 yaitu untuk menampilkan kalimat menggunakan print ("hello world") dan tidak ada perbedaan dengan script1
+String.py yang saya pelajari adalah perintah untuk menggabungkan 2kalimat menjadi 1. 
+Kesimpulannya dari script1,script2,string.py tidak ada perbedaan namun memiliki fungsi yang sama.
