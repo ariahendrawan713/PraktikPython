@@ -1,0 +1,4 @@
+Script1.py yang saya pelajari, untuk menampilkan kalimat dengan menggunakan perintah print "hello, world"
+Script2.py yang saya pelajari, untuk menampilkan kalimat menggunakan print ("hello world")
+String.py yang saya pelajari, untuk menampilkan kalimat menggunakan print "This is a good string", print 'you can use single quotes or double quotes for a string', print "This is" + "a good string"
+Kesimpulannya hasil dari perintah print yang saya coba hasilnya akan sama walaupun dengan di beri tanda : (()),(') maupun (") tampilan kalimatnya akan sama. Dan jika menggunakan ("" + "") sama saja dengan menggambungkan kalimat. 
