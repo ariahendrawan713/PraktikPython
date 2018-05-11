@@ -1,0 +1,13 @@
+Selamat Sore Pak..
+Ini adalah Hasil dari pekerjaan saya
+Nama : Joko Waluyo
+NIM  : G.211.16.0026
+
+
+Dari Script 1 yang sudah saya pelajari, Script tersebut digunakan untuk menampilkan kalimat "Hello, word!" dengan menggunakan perintah print "Hello, world!"
+
+Dari Script 2 yang sudah saya pelajari, Script tersebut digunakan untuk menampilkan kalimat "Hello, word!" dengan menggunakan perintah print ("hello world")
+
+Dari String.py yang sudah saya pelajari, Script tersebut digunakan untuk menampilkan kalimat "This is a good string",'you can use single quotes or double quotes for a string',"This is" + "a good string" menggunakan print "This is a good string", print 'you can use single quotes or double quotes for a string', print "This is" + "a good string"
+
+Kesimpulannya dari hasil diatas adalah perintah print akan menampilkan hasil yang sama walaupun dengan ('), (") tampilan kalimatnya akan sama atau (" + ") sama dengan menggambungkan kalimat. 
