@@ -1,0 +1,4 @@
+Script 1 adalah script untuk menampilkan kalimat dengan menggunakan perintah print "hello, world"
+Script 2 adalah script untuk menampilkan kalimat ("hello world") dan tidak ada perbedaan dengan "script1.py"dari percobaan di terminal.
+String.py adalah perintah script yang mempunyai fungsi untuk menggabungkan 2 atau lebih kalimat menjadi 1 dengan menggunakan tanda "+" diantara kalimat yang ingin di gabung.
+Kesimpulan dari ketiga script adalah sama-sama menampilkan kalimat namun dengan cara yang berbeda.
