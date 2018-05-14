@@ -1,0 +1,3 @@
+script pertama menampilkan kalimat
+script kedua sama dengan script pertama yaitu menampilkan kalimat
+script ketiga sama dengan script 1 dan script ke-2 namun ini digunakan untuk menyatukan 2 kalimat atau lebih
