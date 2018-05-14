@@ -1,0 +1,4 @@
+script 1 digunakan untuk menampilkan kalimat dengan menggunakan perintah print "hello, dunia" 
+script 2 digunakan untuk menambahkan kalimat menggunakan print ("hello, dunia") dan tidak ada perbedaan dengan script yang pertama
+string.py yang saya pelajari adalah perintah untuk menggabungkan dua kalimat menjadi satu
+kesimpulan dari script yang pertama, dua, dan string.py tidak ada perbedaan tapi memiliki fungsi yang sama
