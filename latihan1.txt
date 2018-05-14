@@ -1,0 +1,4 @@
+script ini untuk menampilkan kalimat
+script ini sama dengan script 1 
+string.py ini sama dengan script 1 dan ke 2 namun ini di gunakan untuk menyatukan 2 kalimat atau lebih
+kesimpulan: dari script1,script2,string.py tidak ada perbedaan namaun memilih fungsi yang sama. 
