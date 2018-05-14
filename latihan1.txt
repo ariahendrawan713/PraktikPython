@@ -1,0 +1,4 @@
+Script ini untuk menampilkan kalimat ( kalimat yg di tampilkan pada script tersebut adalah Hello, world! )
+Script ini sama dengan script 1 menampilkan Hello, world!
+Sama dengan script 1 dan 2 , namum ini di gunakan untuk menyatukan 2 kalimat atau lebih
+Kesimpulan dari script yang diambil dari pertama, kedua, dan string.py tidak ada perbedaan tetapi memiliki fungsi yang sama
