@@ -1,0 +1,3 @@
+File Script1 berfungsi mencetak string
+File Script2 sama dengan Script1, hanya cara penulisan yang berbeda
+File String baris pertama mencetak string dengan menggunakan double quotes, baris kedua mencetak string dengan menggunakan single quotes, baris ketiga sama dengan baris pertama, hanya saja menggunakan dua string yang digabung dengan tanda '+'
