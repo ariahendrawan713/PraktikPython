@@ -1,0 +1,19 @@
+Nama : Marisa Aludin 
+ Nim : G.211.16.0076
+Hasil analisa script 1 dan 2
+
+Script 1 
+print "Hello, world!"
+print "Kalimat pertama Saudara dalam mempraktikkan Python"
+hasil yang ditampilkan adalah
+Hello, world!
+Kalimat pertama Saudara dalam mempraktikkan Python
+Script 2 
+print("Hello World!")
+print("Adakah perbedaan script pertama dan kedua?")
+hasil yang ditampilkan adalah 
+Hello World!
+Adakah perbedaan script pertama dan kedua?
+perbedaan dari 
+# script pertama menggunakan tanda "," dan tidak menggunakan tanda "()"
+#script yang kedua menggunakan tanda "()" tapi tidak menggunakan tanda ","
