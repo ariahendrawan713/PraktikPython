@@ -1,0 +1,10 @@
+Nama : Andika vieri juliofano
+Nim. : G.211.16.0093
+
+1. Script1 berfungsi sebagai perintah untuk menampilkan/mencetak string/kalimat
+
+2. Script2 berfungsi sebagai perintah untuk menampilkan /mencetak string dengan kalimat perintah (" ")
+
+3. String.py di baris pertama menggunakan perintah dengan 2 petik ("")
+Sedangkan baris kedua menggunakan satu petik('')
+Bsedangkan baris ketiga menggabungkan dua string menggunakan tanda (+)
