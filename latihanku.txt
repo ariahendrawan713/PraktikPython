@@ -1,0 +1,20 @@
+Nama : Bagu bragowo 
+Nim : G.211.16.0086
+Hasil analisa script 1 dan 2
+
+Script 1 
+print "Hello, world!"
+print "Kalimat pertama Saudara dalam mempraktikkan Python"
+hasil yang ditampilkan adalah
+Hello, world!
+Kalimat pertama Saudara dalam mempraktikkan Python
+Script 2 
+print("Hello World!")
+print("Adakah perbedaan script pertama dan kedua?")
+hasil yang ditampilkan adalah 
+Hello World!
+Adakah perbedaan script pertama dan kedua?
+dari script diatas dapat disimpulkan bahwa script 1 dan 2 memiliki fungsi yang sama 
+yaitu untuk mencetak dan perbedaannya terletak pada penggunaan "()" pada script 1 
+tidak terdapat "()" sedangkan pada script 2 menggunakan "()", namun hasil yang ditampilkan 
+sama. 
