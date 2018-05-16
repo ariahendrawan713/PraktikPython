@@ -1,0 +1,3 @@
+Script 1 hasilnya mencetak sebuah string tp menggunakan tanda "
+Script 2 hasilnya mencetak sebuah string tp menggunakan tanda " dan tanda kurung
+Script 3 hasilnya mencetak sebuah string gabungan kalimat dengan mengguanakan tanda aritmatika +.
